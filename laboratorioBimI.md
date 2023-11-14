@@ -4,7 +4,7 @@
 Elabore un programa en Java que permita encontrar la sumatoria de los n primeros elementos de la siguiente sucesión numérica:
 
 $$
-S = 3^1 - 5^2 + 7^3 + 11^4 - 13^5 - 17^6 - 19^7 + 23^8 + 29^9 + 31^{10} + 37^{11} + 41^{12} - 43^{13} ...
+S = +\frac{2}{2} + \frac{2}{3} - \frac{5}{3} - \frac{7}{3} - \frac{11}{3} + \frac{5}{13} + \frac{5}{17} + \frac{5}{19} + \frac{5}{23} + \frac{5}{29} - \frac{31}{8} - \frac{37}{8} - \frac{41}{8} - \frac{43}{8} - \frac{47}{8} - \frac{53}{8} - \frac{59}{8} - \frac{61}{8} + ...
 $$
 
 Para verificar este programa, agregue las sentencias que sean necesarias para mostrar que se generan cada uno de los términos que forman la serie. Prefiera esta técnica de validación antes que comprar el resultado final.
